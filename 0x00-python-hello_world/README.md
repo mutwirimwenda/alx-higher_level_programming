@@ -10,3 +10,4 @@
 5. [Print string](5-print_string.py) - Print 3 times a string followed by its
    first 9 characters.
 6. [Play with strings](6-concat.py) - Concatenate strings.
+7. [Copy - Cut - Paste](7-edges.py) - Slice strings.
