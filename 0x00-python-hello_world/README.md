@@ -12,3 +12,4 @@
 6. [Play with strings](6-concat.py) - Concatenate strings.
 7. [Copy - Cut - Paste](7-edges.py) - Slice strings.
 8. [Create a new sentence](8-concat_edges.py) - Slice and concatenate strings.
+9. [Easter Egg](9-easter_egg.py) - Print `The Zen of Python`, by TimPeters.
