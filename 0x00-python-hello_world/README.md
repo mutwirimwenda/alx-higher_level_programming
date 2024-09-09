@@ -11,3 +11,4 @@
    first 9 characters.
 6. [Play with strings](6-concat.py) - Concatenate strings.
 7. [Copy - Cut - Paste](7-edges.py) - Slice strings.
+8. [Create a new sentence](8-concat_edges.py) - Slice and concatenate strings.
