@@ -6,3 +6,5 @@
    a random number.
 2. [The alphabet game](2-print_alphabet.py) - Print the ASCII alphabet,
    in lowercase, not followed by a new line.
+3. [The alphabet game except `q` and `e`](3-print_alphabt.py) - Print the ASCII
+   alphabet, in lowercase, not followed by a new line, except `q` and `e`.
