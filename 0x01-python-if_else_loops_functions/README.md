@@ -3,4 +3,6 @@
 0. [Positive anything is better than negative nothing](0-positive_or_negative.py)
    - Check whether a random number is positive or negative.
 1. [The last digit](1-last_digit.py) - Check the nature of the last  digit of
-   a random number
+   a random number.
+2. [The alphabet game](2-print_alphabet.py) - Print the ASCII alphabet,
+   in lowercase, not followed by a new line.
